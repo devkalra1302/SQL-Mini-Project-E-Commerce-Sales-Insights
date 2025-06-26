@@ -79,7 +79,7 @@ Up next:
 ## 🤝 Connect With Me
 
 📩 **Dev Kalra**  
-[LinkedIn](www.linkedin.com/in/dev-kalra)
+https://www.linkedin.com/in/dev-kalra
 
 ---
 
