@@ -1,0 +1,8 @@
+order_id,customer_id,order_date,product,quantity,price_per_unit
+101,1,01-06-2023,Laptop,1,70000
+102,2,02-06-2023,Phone,2,30000
+103,1,05-06-2023,Tablet,1,25000
+104,3,07-06-2023,Headphones,3,2000
+105,4,10-06-2023,Charger,1,1500
+106,5,11-06-2023,Phone,2,30000
+107,1,15-06-2023,Laptop,1,70000
